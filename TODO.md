@@ -1,0 +1,2 @@
+- [x] Modify app.js to add the /welcome endpoint that logs request method and path, and returns JSON {"message": "Welcome to the Demo Web Application!"}.
+- [x] Test the app by running it locally.
